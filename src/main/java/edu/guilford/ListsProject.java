@@ -7,7 +7,7 @@ import java.util.LinkedList;
 public class ListsProject {
     public static void main(String[] args) {
         // declaring a constant for the number of elements in the list
-        final int numSandals = 10000;
+        final int numSandals = 5000;
 
         ArrayList<Sandal> sandalArrayList = new ArrayList<Sandal>();
         LinkedList<Sandal> sandalLinkedList = new LinkedList<Sandal>();
